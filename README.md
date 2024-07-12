@@ -1,5 +1,5 @@
 # bank-management
-Created a simple bank management system using Java, jdbc, hibernate and PostgreSQl
+Created a simple bank management system using Java, jdbc.
 1. I have created a POJO class "BankPojoClass.java" for private attributes and Constructor, getters, setters and toString method are also there.
 2. Inside a controlller class "BankControllerClass.java" i have created methods and by using SQL queries and Postgresql i have created the following functions:
 	i. Create customer (customer name, branch, account type, balance).
